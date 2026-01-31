@@ -24,3 +24,5 @@
 # *.youtube.com
 # *.youtu.be
 # *.googlevideo.com
+# *.myinstants.com
+||myinstants.com
