@@ -7,6 +7,7 @@
 ||m.youtube.com^
 ||youtu.be^
 ||youtube-nocookie.com^
+||roblox.com^
 
 # Block YouTube content delivery
 ||googlevideo.com^
