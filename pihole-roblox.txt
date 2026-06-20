@@ -1,0 +1,42 @@
+# Roblox blocklist - Pi-hole hosts format
+# Core domains
+0.0.0.0 roblox.com
+0.0.0.0 www.roblox.com
+0.0.0.0 web.roblox.com
+0.0.0.0 api.roblox.com
+0.0.0.0 m.roblox.com
+0.0.0.0 auth.roblox.com
+0.0.0.0 client-telemetry.roblox.com
+0.0.0.0 assetgame.roblox.com
+0.0.0.0 setup.roblox.com
+0.0.0.0 clientsettings.roblox.com
+0.0.0.0 clientsettingscdn.roblox.com
+0.0.0.0 gamejoin.roblox.com
+0.0.0.0 games.roblox.com
+0.0.0.0 avatar.roblox.com
+0.0.0.0 friends.roblox.com
+0.0.0.0 chat.roblox.com
+# Content delivery / assets
+0.0.0.0 rbxcdn.com
+0.0.0.0 c0.rbxcdn.com
+0.0.0.0 c1.rbxcdn.com
+0.0.0.0 c2.rbxcdn.com
+0.0.0.0 c3.rbxcdn.com
+0.0.0.0 c4.rbxcdn.com
+0.0.0.0 c5.rbxcdn.com
+0.0.0.0 c6.rbxcdn.com
+0.0.0.0 c7.rbxcdn.com
+0.0.0.0 t0.rbxcdn.com
+0.0.0.0 t1.rbxcdn.com
+0.0.0.0 t2.rbxcdn.com
+0.0.0.0 t3.rbxcdn.com
+0.0.0.0 t4.rbxcdn.com
+0.0.0.0 t5.rbxcdn.com
+0.0.0.0 t6.rbxcdn.com
+0.0.0.0 t7.rbxcdn.com
+# Other Roblox infrastructure
+0.0.0.0 rbxgleam.com
+0.0.0.0 rbxcdn.net
+0.0.0.0 roblox.qq.com
+0.0.0.0 rbxsignup.com
+0.0.0.0 rbxsuperbiz.com
