@@ -1,0 +1,20 @@
+# YouTube AdGuard Filter -> Pi-hole hosts format
+# Block main YouTube domains
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 roblox.com
+# Block YouTube content delivery
+0.0.0.0 googlevideo.com
+0.0.0.0 ytimg.com
+# Block YouTube API and services
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube.googleapis.com
+# Block YouTube image servers
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 yt4.ggpht.com
+# Other
+0.0.0.0 myinstants.com
+0.0.0.0 roblox.com
