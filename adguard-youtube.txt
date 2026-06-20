@@ -1,0 +1,29 @@
+# YouTube AdGuard Filter
+# Compatible with AdGuard Home and AdGuard browser extension
+
+# Block main YouTube domains
+||youtube.com^
+||www.youtube.com^
+||m.youtube.com^
+||youtu.be^
+||youtube-nocookie.com^
+||roblox.com^
+
+# Block YouTube content delivery
+||googlevideo.com^
+||ytimg.com^
+
+# Block YouTube API and services
+||youtubei.googleapis.com^
+||youtube.googleapis.com^
+
+# Block YouTube image servers
+||yt3.ggpht.com^
+||yt4.ggpht.com^
+
+# Alternative wildcard format (also works)
+# *.youtube.com
+# *.youtu.be
+# *.googlevideo.com
+# *.myinstants.com
+||myinstants.com
